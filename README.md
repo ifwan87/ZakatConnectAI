@@ -6,7 +6,7 @@
 
 An intelligent platform connecting Zakat donors with Asnaf recipients, powered by AI-driven assistance and real-time impact tracking.
 
-🌐 **Live Demo:** [https://zakat-connect-ai.vercel.app/](https://zakat-connect-ai.vercel.app/)
+🌐 **Live MVP Demo:** [https://zakat-connect-ai.vercel.app/](https://zakat-connect-ai.vercel.app/)
 
 ## Features
 
